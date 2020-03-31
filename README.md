@@ -1,5 +1,5 @@
 # Osnova
-## Prezentace (30 minut)
+## Prezentace (40 minut)
 * Webový prohlížeč
   * Maková buchta
   * Rendruje stránku
@@ -22,7 +22,14 @@
 * Wordpress
 * Github
 * Github pages
-* Historie webů (bonus) TODO
+## Dema (20 minut)
+* Wordpress
+* Github Pages, Jekyll
+  * Networg blog
+* Vue
+  * Linkoi
+## Bonus
+* Historie webů
   * Soubory
   * On the fly rendering
   * Javascript
@@ -30,7 +37,3 @@
   * Request Response
   * Web sockety
   * SPA
-## Dema (30 minut)
-* Wordpress
-* Github Pages, Jekyll
-* Vue?
